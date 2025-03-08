@@ -1,0 +1,11 @@
+accelerate 
+datasets
+xformers==0.0.22.post7
+diffusers==0.29.0
+transformers==4.43.0
+sentencepiece==0.1.99
+httpx==0.23.0
+torchmetrics[image]==1.0.0
+openai
+bytedlogid
+numpy==1.23.2
