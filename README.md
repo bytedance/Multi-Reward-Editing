@@ -1,5 +1,5 @@
 # Multi-Reward as Condition for Instruction-Based Image Editing
-🔮 Welcome to the official code repository for [**Multi-Reward as Condition for Instruction-Based Image Editing**](https://arxiv.org/abs/2401.01578). We're excited to share our work with you, please bear with us as we prepare code. Stay tuned for the reveal!
+🔮 Welcome to the official code repository for [**Multi-Reward as Condition for Instruction-Based Image Editing**](https://arxiv.org/abs/2411.04713). We're excited to share our work with you, please bear with us as we prepare code. Stay tuned for the reveal!
 
 ## Architecture
 
